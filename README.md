@@ -5,5 +5,8 @@ The Ruby on Rails 5 Essential Training simple_cms project followed from https://
 To start the mysql server
 ```sudo mysql.server start```
 
+To run the database migrations
+```rails db:migrate```
+
 Note:
 You may need to edit the config/database.yml file if you get a socket error
